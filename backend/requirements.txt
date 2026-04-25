@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+groq
+pypdf
+python-docx
+python-pptx
+
+fastapi
+uvicorn
+python-multipart
+groq
