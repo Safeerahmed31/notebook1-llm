@@ -1,3 +1,5 @@
 backend/.env
 .env
-node_modulesgit add .
+node_modulesgit add .backend/.env
+.env
+node_modules
